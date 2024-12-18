@@ -30,7 +30,7 @@ I have also performed clinical work as a Neurology resident in [the First affili
 
 Detailed responsibilities and work experience are presented in Section “Work experience”
 
-If you are interested in any aspect of me, I am always open to discussions and sharing of experiences in clinical work. Feel free to reach out to me at wbq.898472702@gmail.com (foreign friends) and 898472702@qq.com(Chinese friends).
+If you are interested in any aspect of me, I am always open to discussions and sharing of experiences in clinical work. Feel free to reach out to me at wbq.898472702@gmail.com (foreign friends) and 898472702@qq.com (Chinese friends).
 
 ---
 
@@ -40,21 +40,23 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
   08/2022-present
 
-​         Supervisor: Prof. Ruixia Zhu
+  Supervisor: Prof. Ruixia Zhu
 
-​         Master of Clinical Medicine (Neurology)
+  Master of Clinical Medicine (Neurology)
 
-​         **Expected to graduate** in June 2025
+  **Expected to graduate** in June 2025
 
-- **China Medical University** – Shenyang, China     
+  
+
+- **China Medical University** – Shenyang, China
 
   09/2017-06/2022
 
-​         Bachelor of Clinical Medicine
+  Bachelor of Clinical Medicine
 
-​         Score: 90/100
+  Score: 90/100
 
-​         Rank 17th in my major (17/153)
+  Rank 17th in my major (17/153)
 
 
 
@@ -72,4 +74,8 @@ If you are interested in any aspect of me, I am always open to discussions and s
 - Whether chronic neuroinflammatory diseases can be controlled for a long time based on major discoveries in molecular cytology
 
 <br>
+
+My current research focuses on clinical treatment and control of myasthenia gravis. **And all the fields above are closely related to my current research topic and future career planning** —— being an outstanding researcher and doctor. So far, neuroimmunological diseases remain one of the toughest challenges in the field of neurology. The triggers of these diseases are often unclear, and their onset can be quite insidious. Moreover, abnormalities in the immune system can lead to damage across multiple systems, necessitating long-term, precise, and personalized treatment approaches. Therefore, in my future work and studies, I am committed to dedicating myself to this field and striving for the betterment of human health throughout my lifetime!<br>
+
+------
 
