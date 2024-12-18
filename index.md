@@ -6,9 +6,11 @@ layout: page
 
 <img src="https://dr-angelia.github.io/Benqiao Wang.jpg" class="floatpic">
 
+ <br>
+
 Here is **Benqiao Wang (Angelia,** **王本俏)**.<br>
 
-##### Throughout my master’s degree, I played 2 roles simultaneously.<br>
+*Throughout my master’s degree, I played 2 roles simultaneously.*<br>
 
 **Role 1: Postgraduate Student of China Medical university** <br>
 
