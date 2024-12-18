@@ -10,13 +10,15 @@ layout: page
 
 Here is **Benqiao Wang (Angelia,** **王本俏)**.<br>
 
+ <br>
+
 *Throughout my master’s degree, I played 2 roles simultaneously.*<br>
 
-**Role 1: Postgraduate Student of China Medical university** <br>
+​    **Role 1: Postgraduate Student of China Medical university** <br>
 
 I am a graduate student in the Department of Neurology at the China medical university, advised by [Prof. Ruixia Zhu](https://orcid.org/0000-0002-2683-4674), with a main research focus on Neuroimmune diseases (Clinical diagnosis, Treatment and Prognosis). I have achieved an outstanding academic score in class (17th out of 153 students in our major) and will get my master degree in Clinical Medicine (Neurology) in 2025. Detailed publications and research program are displayed in the corresponding sections.<br>
 
-**Role 2: Neurology resident in the first affiliated hospital of China Medical University**<br>
+​    **Role 2: Neurology resident in the first affiliated hospital of China Medical University**<br>
 
 I have also performed clinical work as a Neurology resident in [the First affiliated hospital of China Medical University](https://www.cmu1h.com/home) for 3 years and **successfully passed** the Examinations of the National Certified Physicians and obtained **the Certificate of Physician Credentials** and **Certificate of Medical Licensure** in 2023. I have gained a comprehensive understanding of neuroimmune and common diseases of different systems during my internships in various departments. I am very grateful for my deep involvement in clinical work at our hospital over the past 3 years. This experience has equipped me with: 
 
