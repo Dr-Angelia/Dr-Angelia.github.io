@@ -6,7 +6,7 @@ title: Research Experience
 
 ##      Research experience and Projects
 
-##### **1. Develop a regression model to assess the correlation between AChR-Ab levels and the QMG score in MG, evaluating how AChR-Ab reflects disease severity, therapeutic efficacy, and prognosis.**<br><br>
+#### 1. Develop a regression model to assess the correlation between AChR-Ab levels and the QMG score in MG, evaluating how AChR-Ab reflects disease severity, therapeutic efficacy, and prognosis.<br><br>
 
 *Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br><br>Role: The main designers and implementers of the research<br>Date:08/2022-present<br>
 
@@ -18,7 +18,7 @@ title: Research Experience
 
   
 
-##### **2. Established a clinical follow-up database for myasthenia gravis of the First affiliated hospital of China Medical university**<br><br>
+#### 2. Established a clinical follow-up database for myasthenia gravis of the First affiliated hospital of China Medical university<br><br>
 
 *Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br><br>Role: One of the 4 initiators<br>Date: 08/2022-11/2023<br>
 
@@ -30,7 +30,7 @@ title: Research Experience
 
   
 
-##### **3. Participating in clinical trials evaluating the efficacy of new Immunosuppressive agents, including Telitacicept, efgartigimod, and Eculizumab.**<br><br>
+#### 3. Participating in clinical trials evaluating the efficacy of new Immunosuppressive agents, including Telitacicept, efgartigimod, and Eculizumab.<br><br>
 
 *Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br><br>Role: One of the main participants <br>Date: 10/2023-10/2024<br>
 
