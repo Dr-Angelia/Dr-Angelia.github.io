@@ -46,8 +46,8 @@ links:
     url: /hobbies/
   - title: Startups
     url: /startups/
-  - title: Blogs
-    url: /blogs/
+  - title: Contact me
+    url: /contact me/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
