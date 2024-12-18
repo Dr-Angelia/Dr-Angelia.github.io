@@ -26,9 +26,7 @@ Role: One of the 4 initiators<br>Date: 08/2022-11/2023<br>
 
 <br>
 
-**3. Participating in clinical trials evaluating the efficacy of new Immunosuppressive agents, including Telitacicept, efgartigimod, and Eculizumab.**<br>
-
-*Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br>
+**3. Participating in clinical trials evaluating the efficacy of new Immunosuppressive agents, including Telitacicept, efgartigimod, and Eculizumab.**<br><br>*Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br>
 
 Role: One of the main participants <br>Date: 10/2023-10/2024<br>
 
