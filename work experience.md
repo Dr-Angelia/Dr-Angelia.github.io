@@ -4,7 +4,7 @@ permalink: /work experience/index.html
 title: Work Experience
 ---
 
-## Professional Experiences (Neurology Resident):
+## Professional Experiences (Neurology Resident)
 
 <br>
 
@@ -20,7 +20,7 @@ title: Work Experience
 
 ---
 
-## Professional Experiences (Neurology Intern):
+## Professional Experiences (Neurology Intern)
 
 <br>
 

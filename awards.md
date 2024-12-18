@@ -8,9 +8,7 @@ title: Awards
 
 ## HONORS AND AWARDS
 
-- **National Scholarship** awarded by Ministry of Eduction of China
-
-(2023-2024)
+- **National Scholarship** awarded by Ministry of Eduction of China (2023-2024)
 
 - **Excellent resident** of the First Affiliated Hospital of China Medical University (2023-2024)
 - **First-class Academic Scholarship** awarded by China Medical University (2023-2024)
@@ -22,7 +20,7 @@ title: Awards
 
 ## Transcripts
 
-- [Undergraduate Transcript, please click here.](https://dr-angelia.github.io/undergraduate transcript.jpg)
-- [Master’s Transcript, please click here.](https://dr-angelia.github.io/master’s transcript.jpg)
+- [Undergraduate Transcript, please click here.](https://dr-angelia.github.io/undergraduate transcript.pdf)
+- [Master’s Transcript, please click here.](https://dr-angelia.github.io/master’s transcript.pdf)
 
 <br>
