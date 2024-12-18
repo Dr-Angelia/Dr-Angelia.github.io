@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /contact me/index.html
 title: Contact me
 ---
 
@@ -8,7 +8,9 @@ title: Contact me
 
 ### angelia0316.github.io 
 
-## make friends!
+
+
+
 
 <br>My Chinese name is Benqiao Wang, and Angelia is my English name. Feel free to address me in any friendly manner you prefer, which could be the beginning of a beautiful friendship between us!
 
