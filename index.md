@@ -68,14 +68,14 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 ##### ***Topics that interest me in future research:***
 
-- Neuroimmune diseases represented by multiple sclerosis and myasthenia gravis.
+- Neuroimmune diseases represented by multiple sclerosis (MS) and myasthenia gravis (MG).
 - Molecular basis, signaling pathways and immune abnormalities in the pathogenesis of neuroinflammatory diseases.
 - Targeted drugs and precision treatment of neuroimmune diseases guided by molecular and cellular lesions
 - Whether chronic neuroinflammatory diseases can be controlled for a long time based on major discoveries in molecular cytology
 
 <br>
 
-My current research focuses on clinical treatment and control of myasthenia gravis. **And all the fields above are closely related to my current research topic and future career planning** —— being an outstanding researcher and doctor. So far, neuroimmunological diseases remain one of the toughest challenges in the field of neurology. The triggers of these diseases are often unclear, and their onset can be quite insidious. Moreover, abnormalities in the immune system can lead to damage across multiple systems, necessitating long-term, precise, and personalized treatment approaches. Therefore, in my future work and studies, I am committed to dedicating myself to this field and striving for the betterment of human health throughout my lifetime!<br>
+My current research focuses on clinical treatment and control of myasthenia gravis (MG). **And all the fields above are closely related to my current research topic and future career planning** —— being an outstanding researcher and doctor. So far, neuroimmunological diseases remain one of the toughest challenges in the field of neurology. The triggers of these diseases are often unclear, and their onset can be quite insidious. Moreover, abnormalities in the immune system can lead to damage across multiple systems, necessitating long-term, precise, and personalized treatment approaches. Therefore, in my future work and studies, I am committed to dedicating myself to this field and striving for the betterment of human health throughout my lifetime!<br>
 
 ------
 
