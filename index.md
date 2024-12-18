@@ -4,39 +4,68 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://dr-angelia.github.io/Benqiao Wang.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Benqiao Wang (Angelia,** **王本俏)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+##### Throughout my master’s degree, I played 2 roles simultaneously.<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+**Role 1: Postgraduate Student of China Medical university** <br>
+
+I am a graduate student in the Department of Neurology at the China medical university, advised by [Prof. Ruixia Zhu](https://orcid.org/0000-0002-2683-4674), with a main research focus on Neuroimmune diseases (Clinical diagnosis, Treatment and Prognosis). I have achieved an outstanding academic score in class (17th out of 153 students in our major) and will get my master degree in Clinical Medicine (Neurology) in 2025. Detailed publications and research program are displayed in the corresponding sections.<br>
+
+**Role 2: Neurology resident in the first affiliated hospital of China Medical University**<br>
+
+I have also performed clinical work as a Neurology resident in [the First affiliated hospital of China Medical University](https://www.cmu1h.com/home) for 3 years and **successfully passed** the Examinations of the National Certified Physicians and obtained **the Certificate of Physician Credentials** and **Certificate of Medical Licensure** in 2023. I have gained a comprehensive understanding of neuroimmune and common diseases of different systems during my internships in various departments. I am very grateful for my deep involvement in clinical work at our hospital over the past 3 years. This experience has equipped me with: 
+
+① The Diagnostic and Therapeutic Approach to Internal Medicine Diseases.
+
+② Strong communication skills with patients and teamwork abilities with colleagues.
+
+③ Possessing a keen insight into translating laboratory findings into clinic, also a potential to identify the new hitting-point for experimental exploration.
+
+Detailed responsibilities and work experience are presented in Section “Work experience”
+
+If you are interested in any aspect of me, I am always open to discussions and sharing of experiences in clinical work. Feel free to reach out to me at wbq.898472702@gmail.com (foreign friends) and 898472702@qq.com(Chinese friends).
 
 ---
 
-## Research Interests
+## Educational Background
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+- **China Medical University** - Shenyang, China 
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
+  08/2022-present
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+​         Supervisor: Prof. Ruixia Zhu
+
+​         Master of Clinical Medicine (Neurology)
+
+​         **Expected to graduate** in June 2025
+
+- **China Medical University** – Shenyang, China     
+
+  09/2017-06/2022
+
+​         Bachelor of Clinical Medicine
+
+​         Score: 90/100
+
+​         Rank 17th in my major (17/153)
+
+
 
 ---
 
-## News and Updates
+## Interests
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. I will apply for funding from China Scholarship Counsil (CSC) which could support my living expenses abroad. If you have any information, please contact me!</font>**
+
+##### ***Topics that interest me in future research:***
+
+- Neuroimmune diseases represented by multiple sclerosis and myasthenia gravis.
+- Molecular basis, signaling pathways and immune abnormalities in the pathogenesis of neuroinflammatory diseases.
+- Targeted drugs and precision treatment of neuroimmune diseases guided by molecular and cellular lesions
+- Whether chronic neuroinflammatory diseases can be controlled for a long time based on major discoveries in molecular cytology
 
 <br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
