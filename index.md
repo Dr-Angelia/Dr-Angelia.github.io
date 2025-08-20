@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://dr-angelia.github.io/Benqiao Wang.jpg" class="floatpic">
+<img src="https://dr-angelia.github.io/Benqiao Wang.jpg" class="floatpic"> 
 
- <br>
+<br>
 
 Here is **Benqiao Wang (Angelia,** **王本俏)**.<br>
 
