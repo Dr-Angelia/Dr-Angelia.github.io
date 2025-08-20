@@ -4,11 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (#: equal contribution, *: corresponding author)
-
 ## Publication
 
-**My ORCID: https://orcid.org/0009-0004-0743-5813**
+**My ORCID: **[**https://orcid.org/0009-0004-0743-5813**](https://orcid.org/0009-0004-0743-5813)<br>
 
 - [*Beyond the Surface: Investigating the Potential Mechanisms of Non-Motor Symptoms in Myasthenia Gravis*](https://pubmed.ncbi.nlm.nih.gov/40726281/)<br>
 
@@ -20,7 +18,7 @@ title: Publications
 
 - [*Early Predictive Accuracy of Machine Learning for Hemorrhagic Transformation in Acute Ischemic Stroke: Systematic Review and Meta-Analysis*](https://pubmed.ncbi.nlm.nih.gov/40408765/)<br>
 
-  **Benqiao Wang**, Bohao Jiang, Dan Liu, Ruixia Zhu*<br>
+  ***Benqiao Wang***, Bohao Jiang, Dan Liu, Ruixia Zhu*<br>
 
   **Journal of Medical Internet Research**, May, 2025<br>
 
@@ -52,7 +50,7 @@ title: Publications
 
 - [*Two rare cases of primary clear cell adenocarcinoma of the urethra: clinical experience, case report and literature review*](https://pubmed.ncbi.nlm.nih.gov/40012547/)<br>
 
-  Bohao Jiang# , Jiyuan Hu# , **Benqiao Wang***#* , Xujia Liu, Ling Tong, Yitong Xu, Hao Zhang*<br>
+  Bohao Jiang# , Jiyuan Hu# , ***Benqiao Wang***# , Xujia Liu, Ling Tong, Yitong Xu, Hao Zhang*<br>
 
   **Frontiers in Oncology**, Feb, 2025<br>
 
@@ -86,7 +84,7 @@ title: Publications
 
 ---
 
-
+#: equal contribution, *: corresponding author
 
 ---
 
