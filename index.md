@@ -16,7 +16,7 @@ Here is **Benqiao Wang (Angelia,** **王本俏)**.<br>
 
 ​    **Role 1: Postgraduate Student of China Medical university** <br>
 
-I am a graduate student in the Department of Neurology at the China medical university, advised by [Prof. Ruixia Zhu](https://orcid.org/0000-0002-2683-4674), with a main research focus on Neuroimmune diseases (Clinical diagnosis, Treatment and Prognosis). I have achieved an outstanding academic score in class (17th out of 153 students in our major) and will get my master degree in Clinical Medicine (Neurology) in 2025. Detailed publications and research program are displayed in the corresponding sections.<br>
+I am a graduate student in the Department of Neurology at the China medical university, advised by [Prof. Ruixia Zhu](https://orcid.org/0000-0002-2683-4674), with a main research focus on Neuroimmune diseases (Clinical diagnosis, Treatment and Prognosis). I have achieved an outstanding academic score in class (17th out of 153 students in our major) and got my master degree in Clinical Medicine (Neurology) in 2025. Detailed publications and research program are displayed in the corresponding sections.<br>
 
 ​    **Role 2: Neurology resident in the first affiliated hospital of China Medical University**<br>
 
