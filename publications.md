@@ -6,7 +6,7 @@ title: Publications
 
 ## Publication
 
-**My ORCID: **[**https://orcid.org/0009-0004-0743-5813**](https://orcid.org/0009-0004-0743-5813)<br>
+**My ORCID**: [**https://orcid.org/0009-0004-0743-5813**](https://orcid.org/0009-0004-0743-5813)<br>
 
 - [*Beyond the Surface: Investigating the Potential Mechanisms of Non-Motor Symptoms in Myasthenia Gravis*](https://pubmed.ncbi.nlm.nih.gov/40726281/)<br>
 
