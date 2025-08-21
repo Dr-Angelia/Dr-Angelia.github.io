@@ -6,15 +6,19 @@ title: Research Experience
 
 ##      Research experience and Projects
 
-#### 1. Develop a regression model to assess the correlation between AChR-Ab levels and the quantitative myasthenia gravis (QMG) score in myasthenia gravis (MG), evaluating how AChR-Ab reflects disease severity, therapeutic efficacy, and prognosis.<br><br>
+#### 1. Develop a predictive model to evaluate the significance of AChR antibody titers in predicting the prognosis of MG, particularly in predicting the achievement of minimal manifestation status (MMS) within one year.<br><br>
 
-*Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br><br>Role: The main designers and implementers of the research<br>Date:08/2022-present<br>
+*Location: Department of neurology, the First Affiliated Hospital of China Medical University*<br><br>Role: The main designers and implementers of the research<br>Date:08/2022-06/2025<br>
 
-- To evaluate the correlation of AChR-Ab with the myasthenia gravis (QMG) score for myasthenia gravis (MG) through a regression model, assessing its reflection on disease severity, efficacy, and prognosis, we searched over 50 related articles in the PubMed database to evaluate the feasibility of this study. We conducted a retrospective investigation of 100 past cases sourced from the internal system of the First Hospital of China Medical University to summarize the necessary indicators for inclusion, such as the patient’s gender, age of onset, Myasthenia Gravis Foundation of America (MGFA) classification, baseline QMG score, and corresponding AChR-Ab levels, while establishing the inclusion/exclusion criteria.
+- To evaluate the correlation between AChR-Ab and the severity as well as the prognosis of myasthenia gravis (MG), we searched over 50 related articles in the PubMed database to evaluate the feasibility of this study. We conducted a retrospective investigation of 100 past cases sourced from the internal system of the First Hospital of China Medical University to summarize the necessary indicators for inclusion, such as the patient’s gender, age of onset, Myasthenia Gravis Foundation of America (MGFA) classification, baseline QMG score, comorbidity and corresponding AChR-Ab levels, while establishing the inclusion/exclusion criteria.
 
-- Prospective data collection aims to gather cases from 300 patients, followed up regularly to understand their current treatment plans and assess their QMG scores. Follow-up methods include phone calls and outpatient evaluations. We recommend a follow-up period of six months, recording QMG scores and antibody titers when immunosuppressants are first used.
+- Clinical data such as baseline AChR antibody titers, AChR antibody titers after six months of treatment, and QMG scores were collected from 406 AChR antibody-positive MG patients who visited the outpatient or inpatient departments of the First Affiliated Hospital of China Medical University from December 2022 to December 2024. 
 
-- This process is ongoing, and the final study results will be translated into my thesis.<br>
+- The study explored the relationship between baseline AChR  antibody titers and the severity of MG, as well as the correlation between AChR antibody titers and MG subtypes. Additionally, using AChR antibody titers as a predictor, a predictive model was constructed to assess the possibility of achieving MMS within one year in MG patients. This study took univariate and multivariate logistic regression analyses to screen for the potential predictive factors, carried out stepwise regression, and further conducted a bootstrap resampling validation to confirm the predictive performance of the model. The development of the predictive model ultimately verified the value of AChR antibody titers in assessing MG prognosis.
+
+- We found  that AChR antibody titers can, to some extent, reflect the severity of MG. Overall, the baseline AChR titer has little correlation with the severity of MG. However, there are differences in AChR antibody titer levels among different MG subtypes. In addition, patients with lower baseline AChR antibody titer, greater decrease in AChR antibody titer after 6 months, and without thymoma are more likely to achieve MMS within 1 year. This study suggests that monitoring the titer of AChR antibodies is of guiding significance for assessing the condition and prognosis of MG patients.
+
+  <br>
 
   
 

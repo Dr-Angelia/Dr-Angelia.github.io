@@ -8,7 +8,7 @@ title: Work Experience
 
 <br>
 
-**The first hospital of China Medical University, Shenyang** (09/2023-present)<br>
+**The first hospital of China Medical University, Shenyang** (09/2023-06/2025)<br>
 
 - Continue previous clinical work with more comprehensive management of hospitalized patients and become proficient in clinical work. (an average of 30 patients per month)
 
@@ -38,7 +38,7 @@ title: Work Experience
 
 ## Professional Experiences (Student Intern)
 
-<br>**The Shengjing Hospital of China Medical University, Shenyang** (09/2021-06/2022)<br>
+<br>**The Shengjing Hospital of China Medical University (The second hospital of China Medical University), Shenyang** (09/2021-06/2022)<br>
 
 - Assisted physicians in clinical work and participated in basic clinical operations.
 - Develop a preliminary understanding of common diseases in various organs and systems.<br>
