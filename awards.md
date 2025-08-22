@@ -8,7 +8,7 @@ title: Awards
 
 ## HONORS AND AWARDS
 
-- **Outstanding Graduate** awarded by Education Department of Liaoning (2025)
+- **Outstanding Graduate** awarded by Education Department of Liaoning Province (2025)
 - **Outstanding Graduate** awarded by China Medical University (2025)
 - **First-class Academic Scholarship** awarded by China Medical University (2024-2025)
 - **National Scholarship** awarded by Ministry of Eduction of China (2023-2024)<br>
